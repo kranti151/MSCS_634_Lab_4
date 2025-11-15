@@ -28,7 +28,7 @@ The purpose of this lab is to help you:
 
 ---
 
-## 📊 Key Insights Gained
+## Key Insights Gained
 
 ### **1. Linear Regression Behavior**
 
